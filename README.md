@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 </div><br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WhistnerRojas&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=WhistnerRojas)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WhistnerRojas&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
